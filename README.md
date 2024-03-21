@@ -12,6 +12,7 @@ I built this project as part of sust cse, course : CSE-344 (Web Technologies).
   - [Admin Functionality](#admin-functionality)
   - [Student Functionality](#student-functionality)
   - [Teacher Functionality](#teacher-functionality)
+- [Database Schema](#database-schema)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -88,6 +89,10 @@ Teachers benefit from the following functionalities:
 
 - Viewing corresponding registered courses.
 - Selecting a specific course to view the list of registered students.
+
+## Database Schema
+
+<img src = "">
 
 ## Conclusion
 

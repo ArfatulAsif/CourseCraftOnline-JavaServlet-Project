@@ -28,36 +28,36 @@ CCO is designed with the following objectives in mind:
 - To enable students to register for courses and access information about their registered courses effortlessly.
 
 
-# Technology Used
+### Technology Used
 
 My project relies on the following technologies, libraries, and tools:
 
-### Backend
+**Backend**
 - [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com): The core programming language.
 - [![Servlets](https://img.shields.io/badge/Servlets-%23D33222.svg?&style=for-the-badge&logo=java&logoColor=white)](https://javaee.github.io/servlet-spec/): Java technology for extending the capabilities of web servers.
 - [![JavaServer Pages (JSP)](https://img.shields.io/badge/JSP-%23FFA500.svg?&style=for-the-badge&logo=java&logoColor=white)](https://javaee.github.io/jsp-spec/): Technology for developing dynamic web pages using Java.
 
-### Build Tools
+**Build Tools**
 - [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org): A popular build automation and project management tool.
 
-### Web Server
+**Web Server**
 - [![Apache](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black)](http://tomcat.apache.org): A widely used web server and servlet container.
 
-### Database
+**Database**
 - [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com): A robust relational database management system.
 
-### Version Control
+**Version Control**
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com): A web-based platform for version control using Git.
 
-### Integrated Development Environment (IDE)
+**Integrated Development Environment (IDE)**
 - [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-%23000000.svg?&style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/ide/): A powerful integrated development environment for Java development.
 
-### Frontend Technologies
+**Frontend Technologies**
 - [![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML): Markup language for creating the structure of web pages.
 - [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS): Stylesheet language for designing the presentation of web pages.
 - [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Programming language for adding interactivity to web pages.
 
-### Java Web Technologies
+**Java Web Technologies**
 - [![Java Database Connectivity (JDBC)](https://img.shields.io/badge/JDBC-%23EA5E00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/javase/14/docs/api/java.sql/java/sql/package-summary.html): Utilized for connecting Java applications to the MySQL database.
 
 

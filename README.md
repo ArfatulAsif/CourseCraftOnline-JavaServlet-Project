@@ -69,6 +69,8 @@ My project relies on the following technologies, libraries, and tools:
 
 CourseCraftOnline ensures secure user authentication using username and password credentials.
 
+<img src="authorization.gif">
+
 ### Admin Functionality
 
 Administrators have access to a range of functionalities, including:

@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Objectives](#objectives)
-- [Technologies Used](#technologies-used)
+- [Technology Used](#technologies-used)
 - [Features](#features)
   - [User Authentication](#user-authentication)
   - [Admin Functionality](#admin-functionality)

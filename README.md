@@ -78,7 +78,7 @@ Administrators have access to a range of functionalities, including:
 - Adding new courses to the system.
 - Assigning teachers to specific courses.
 
-<img src="admin.gif">
+<img src="admin1.gif">
 
 ### Student Functionality
 

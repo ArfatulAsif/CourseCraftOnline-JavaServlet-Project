@@ -78,6 +78,8 @@ Administrators have access to a range of functionalities, including:
 - Adding new courses to the system.
 - Assigning teachers to specific courses.
 
+<img src="admin.gif">
+
 ### Student Functionality
 
 Students can utilize the following features:
@@ -85,12 +87,16 @@ Students can utilize the following features:
 - Registering for courses.
 - Viewing all registered courses.
 
+<img src="student.gif">
+
 ### Teacher Functionality
 
 Teachers benefit from the following functionalities:
 
 - Viewing corresponding registered courses.
 - Selecting a specific course to view the list of registered students.
+
+<img src="teacher.gif">
 
 ## Database Schema
 

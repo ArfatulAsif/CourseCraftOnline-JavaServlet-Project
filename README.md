@@ -43,7 +43,7 @@ My project relies on the following technologies, libraries, and tools:
 - [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org): A popular build automation and project management tool.
 
 **Web Server**
-- [![Apache](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black)](http://tomcat.apache.org): A widely used web server and servlet container.
+- [![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black)](http://tomcat.apache.org): A widely used web server and servlet container.
 
 **Database**
 - [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com): A robust relational database management system.

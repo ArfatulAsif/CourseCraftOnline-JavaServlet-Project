@@ -66,7 +66,7 @@ My project relies on the following technologies, libraries, and tools:
 
 ### User Authentication
 
-CourseCraftOnline ensures secure user authentication using username and password credentials. Passwords are hashed using JBCrypt to enhance security.
+CourseCraftOnline ensures secure user authentication using username and password credentials.
 
 ### Admin Functionality
 

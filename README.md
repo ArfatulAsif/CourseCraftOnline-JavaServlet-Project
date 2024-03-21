@@ -16,15 +16,15 @@ I built this project as part of sust cse, course : CSE-344 (Web Technologies).
 
 ## Introduction
 
-In the realm of education, efficient management of courses is essential for smooth operation and effective learning outcomes. Inspired by the need for a robust system to facilitate course management, CourseCraftOnline (CCO) was conceived. Similar to the Emergency Disaster Management System (EDMS) developed by our peers, CCO aims to streamline processes and enhance user experience within educational institutions.
+In the realm of education, efficient management of courses is essential for smooth operation and effective learning outcomes. Inspired by the need for a robust system to facilitate course management, CourseCraftOnline (CCO) was conceived. CourseCraftOnline aims to streamline processes and enhance user experience within educational institutions.
 
 ## Objectives
 
-CCO is designed with the following objectives in mind:
+CourseCraftOnline is designed with the following objectives in mind:
 
 - To develop a user-friendly website using Java backend technologies, specifically Servlets and JSP.
-- To integrate Bootstrap for enhanced UI/UX design, ensuring an attractive and intuitive interface.
-- To implement secure user authentication using username and password, with password hashing utilizing JBCrypt.
+- To integrate tailwind for enhanced UI/UX design, ensuring an attractive and intuitive interface.
+- To implement secure user authentication using username and password.
 - To support three distinct user roles: students, teachers, and administrators, each with tailored functionalities.
 - To empower administrators to add new courses and assign teachers to specific courses, fostering efficient course management.
 - To enable students to register for courses and access information about their registered courses effortlessly.
@@ -66,7 +66,7 @@ My project relies on the following technologies, libraries, and tools:
 
 ### User Authentication
 
-CCO ensures secure user authentication using username and password credentials. Passwords are hashed using JBCrypt to enhance security.
+CourseCraftOnline ensures secure user authentication using username and password credentials. Passwords are hashed using JBCrypt to enhance security.
 
 ### Admin Functionality
 
@@ -91,4 +91,4 @@ Teachers benefit from the following functionalities:
 
 ## Conclusion
 
-In conclusion, CourseCraftOnline emerges as a comprehensive solution for online course management, offering a seamless experience for students, teachers, and administrators. With its user-friendly interface and robust functionalities, CCO streamlines course management processes, contributing to enhanced efficiency within educational institutions.
+In conclusion, CourseCraftOnline emerges as a comprehensive solution for online course management, offering a seamless experience for students, teachers, and administrators. With its user-friendly interface and robust functionalities, CourseCraftOnline streamlines course management processes, contributing to enhanced efficiency within educational institutions.

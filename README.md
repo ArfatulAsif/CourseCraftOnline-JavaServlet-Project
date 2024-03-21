@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Objectives](#objectives)
-- [Technology Used](#technologies-used)
+- [Technology Used](#technology-used)
 - [Features](#features)
   - [User Authentication](#user-authentication)
   - [Admin Functionality](#admin-functionality)
@@ -12,11 +12,11 @@
   - [Teacher Functionality](#teacher-functionality)
 - [Conclusion](#conclusion)
 
-### Introduction
+## Introduction
 
 In the realm of education, efficient management of courses is essential for smooth operation and effective learning outcomes. Inspired by the need for a robust system to facilitate course management, CourseCraftOnline (CCO) was conceived. Similar to the Emergency Disaster Management System (EDMS) developed by our peers, CCO aims to streamline processes and enhance user experience within educational institutions.
 
-### Objectives
+## Objectives
 
 CCO is designed with the following objectives in mind:
 
@@ -28,7 +28,7 @@ CCO is designed with the following objectives in mind:
 - To enable students to register for courses and access information about their registered courses effortlessly.
 
 
-### Technology Used
+## Technology Used
 
 My project relies on the following technologies, libraries, and tools:
 
@@ -62,31 +62,31 @@ My project relies on the following technologies, libraries, and tools:
 
 # Features
 
-#### User Authentication
+### User Authentication
 
 CCO ensures secure user authentication using username and password credentials. Passwords are hashed using JBCrypt to enhance security.
 
-#### Admin Functionality
+### Admin Functionality
 
 Administrators have access to a range of functionalities, including:
 
 - Adding new courses to the system.
 - Assigning teachers to specific courses.
 
-#### Student Functionality
+### Student Functionality
 
 Students can utilize the following features:
 
 - Registering for courses.
 - Viewing all registered courses.
 
-#### Teacher Functionality
+### Teacher Functionality
 
 Teachers benefit from the following functionalities:
 
 - Viewing corresponding registered courses.
 - Selecting a specific course to view the list of registered students.
 
-### Conclusion
+## Conclusion
 
 In conclusion, CourseCraftOnline emerges as a comprehensive solution for online course management, offering a seamless experience for students, teachers, and administrators. With its user-friendly interface and robust functionalities, CCO streamlines course management processes, contributing to enhanced efficiency within educational institutions.

@@ -92,7 +92,7 @@ Teachers benefit from the following functionalities:
 
 ## Database Schema
 
-<img src = "">
+<img src = "WhatsApp Image 2024-03-21 at 6.18.05 AM.jpeg">
 
 ## Conclusion
 

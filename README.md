@@ -55,7 +55,6 @@ My project relies on the following technologies, libraries, and tools:
 **Frontend Technologies**
 - [![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML): Markup language for creating the structure of web pages.
 - [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS): Stylesheet language for designing the presentation of web pages.
-- [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Programming language for adding interactivity to web pages.
 
 **Java Web Technologies**
 - [![Java Database Connectivity (JDBC)](https://img.shields.io/badge/JDBC-%23EA5E00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/javase/14/docs/api/java.sql/java/sql/package-summary.html): Utilized for connecting Java applications to the MySQL database.
